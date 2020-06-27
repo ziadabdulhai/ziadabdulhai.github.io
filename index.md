@@ -6,3 +6,6 @@ Ich arbeite seit vier Jahre als Web-Entwickler mit einem CMS namens TYPO3, Ich e
 * ordentlich
 * mag neue Technologien
 * Entwickler
+
+Paul Erdös sagte:
+> Man lernt Mathematik nicht, man gewöhnt sich nur daran.
